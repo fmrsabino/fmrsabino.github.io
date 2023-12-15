@@ -1,0 +1,12 @@
+# Git
+**/.git
+.github
+.gitignore
+.gitmodules
+
+# IntelliJ
+.idea
+
+# Docker
+Dockerfile
+.dockerignore
