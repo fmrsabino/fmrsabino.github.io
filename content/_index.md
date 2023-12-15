@@ -6,7 +6,7 @@
 
 My name is Frederico Sabino and I'm a Software Engineer currently based in Berlin, Germany.
 
-I work on open source software with a focus on backend services which support the infrastructure behind the [Safe Wallet](https://safe.global).
+I work on open source software with a focus on backend services supporting the infrastructure behind the [Safe Wallet](https://safe.global).
 
 I have previously worked on developing native Android applications at N26 and Gnosis.
 
